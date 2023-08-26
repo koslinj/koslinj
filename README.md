@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate fullstack developer from Poland.</h3>
-<h3 align="center">I am a student at the Lodz University of Technology</h3>
-<br/>
-
+<h3 align="center">A passionate fullstack developer from Poland. <br/> I am a student at the Lodz University of Technology</h3>
 <h4 align="center">Making modern web application is my main passion but i am also keen to learn any technologies and i have aspirations to improve in programming</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koslinj&label=Profile%20views&color=0e75b6&style=flat" alt="koslinj" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my projects are available at [https://koslinj.github.io/Portfolio/](https://koslinj.github.io/Portfolio/)
-
+- 👨‍💻 My portfolio website [https://koslinj.github.io/Portfolio/](https://koslinj.github.io/Portfolio/)
 - 📫 How to reach me **koslinj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
