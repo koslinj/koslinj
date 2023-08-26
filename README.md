@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate fullstack developer from Poland. <br/> I am a student at the Lodz University of Technology</h3>
-<h4 align="center">Making modern web application is my main passion but i am also keen to learn any technologies and i have aspirations to improve in programming</h4>
+<h3 align="center">A passionate fullstack developer from Poland.<br/>I am a computer science student at the Lodz University of Technology.</h3>
+<h4 align="center">Making modern web application is my main passion but i am also keen to learn any technologies and i have aspirations to improve in programming.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koslinj&label=Profile%20views&color=0e75b6&style=flat" alt="koslinj" /> </p>
 
